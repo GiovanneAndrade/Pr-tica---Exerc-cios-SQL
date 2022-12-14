@@ -1,0 +1,1 @@
+	delete from compras where id = 6;
