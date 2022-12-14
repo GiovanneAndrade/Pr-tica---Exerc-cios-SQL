@@ -1,1 +1,0 @@
- select * from produtos order by preco asc limit 1  OFFSET 1;
